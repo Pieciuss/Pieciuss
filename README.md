@@ -1,16 +1,65 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Pieciuss/Pieciuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+██████╗ ██╗███████╗ ██████╗██╗██╗   ██╗███████╗███████╗
+██╔══██╗██║██╔════╝██╔════╝██║██║   ██║██╔════╝██╔════╝
+██████╔╝██║█████╗  ██║     ██║██║   ██║███████╗███████╗
+██╔═══╝ ██║██╔══╝  ██║     ██║██║   ██║╚════██║╚════██║
+██║     ██║███████╗╚██████╗██║╚██████╔╝███████║███████║
+╚═╝     ╚═╝╚══════╝ ╚═════╝╚═╝ ╚═════╝ ╚══════╝╚══════╝
+```
 
-Here are some ideas to get you started:
+**FiveM Script Developer · Frontend & Backend**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+</div>
+
+### whoami
+
+```lua
+local Pieciuss = {
+    focus     = "FiveM Script Development",
+    stack     = { "Lua", "JavaScript" },
+    side      = { "Frontend", "Backend" },
+    status    = "Building something cool...",
+}
+```
+
+---
+
+### stack
+
+| Layer | Tech |
+|---|---|
+| **Game Scripting** | `Lua` · `FiveM Native API` |
+| **Frontend (NUI)** | `JavaScript` · `HTML/CSS` |
+| **Backend** | `JavaScript` · `oxmysql` |
+
+---
+
+### projects
+
+> *soon™ — check back later*
+
+| # | Name | Description |
+|---|---|---|
+| — | — | — |
+
+> Aktualne projekty dostępne na prośbę 👇
+
+---
+
+### contact
+
+```
+Discord → pieciuss
+```
+
+---
+
+<div align="center">
+
+*scripts that just work.*
+
+</div>
