@@ -47,7 +47,7 @@ local Pieciuss = {
 <details>
 <summary>🧩 <b>piecius_core</b> — Server Core & Vehicle System</summary>
 
-Vehicle key & lock system (keybind `U`), hotwiring with 15% success chance, engine block without key, military vehicle blacklist (~80+ models auto-deleted), Fort Zancudo cleanup, emergency service suppression (cops, EMS, fire), wanted level disable, dispatch disable, NUI ID card system (`/dowod`) with SSN generation, admin key commands (`/dajkluczyk`, `/zrobkluczyk`, `/dajklucz`).
+Vehicle key & lock system (keybind `U`), hotwiring with 15% success chance, engine block without key, military vehicle blacklist (~80+ models auto-deleted), Fort Zancudo cleanup, emergency service suppression (cops, EMS, fire), wanted level disable, dispatch disable, NUI ID card system (`/id`) with SSN generation, admin key commands (`/givekey`, `/makekey`, `/handkey`).
 
 🔗 [Repository](https://github.com/Pieciuss/piecius_core)
 </details>
@@ -63,7 +63,7 @@ Up to 3 character slots per player, full NUI selection screen with camera at cus
 <details>
 <summary>🚗 <b>piecius_garage</b> — Vehicle Garage & Impound</summary>
 
-6 garage locations (Downtown, South LS, Airport, Paleto Bay, Sandy Shores, Vinewood), NUI panel showing vehicle name/plate/body health/engine health/fuel level/location, impound lot with NPC & $500 recovery fee, 3D floating hints, spawn point collision detection, full vehicle props persistence (body, engine, tank, dirt, fuel). Admin commands: `/garazdaj`, `/garazusun`, `/garazlista`, `/zwroc`, `/napraw`, `/usunpojazdy`.
+6 garage locations (Downtown, South LS, Airport, Paleto Bay, Sandy Shores, Vinewood), NUI panel showing vehicle name/plate/body health/engine health/fuel level/location, impound lot with NPC & $500 recovery fee, 3D floating hints, spawn point collision detection, full vehicle props persistence (body, engine, tank, dirt, fuel). Admin commands: `/garagegive`, `/garagedelete`, `/garagelist`, `/unimpound`, `/repair`, `/carwipe`.
 
 🔗 [Repository](https://github.com/Pieciuss/piecius_garage)
 </details>
@@ -71,7 +71,7 @@ Up to 3 character slots per player, full NUI selection screen with camera at cus
 <details>
 <summary>💊 <b>piecius_crime</b> — Criminal Organizations System</summary>
 
-Organization creation ($50k) with name & tag, tablet item ($15k) openable via NPC or `F6` keybind with prop animation, 6-tier rank system (Rekrut→Lider) with granular permissions, purchasable upgrades (member slots up to 30, vault up to $5M, org garage up to 10 slots, armory levels), organization vault with deposit/withdraw, 6 buyable HQ locations ($80k–$350k) with instanced interiors (routing buckets), interior points (wardrobe, safe as ox_inventory stash, garage), org vehicle garage with personal↔org transfer.
+Organization creation ($50k) with name & tag, tablet item ($15k) openable via NPC or `F6` keybind with prop animation, 6-tier rank system (Recruit→Leader) with granular permissions, purchasable upgrades (member slots up to 30, vault up to $5M, org garage up to 10 slots, armory levels), organization vault with deposit/withdraw, 6 buyable HQ locations ($80k–$350k) with instanced interiors (routing buckets), interior points (wardrobe, safe as ox_inventory stash, garage), org vehicle garage with personal↔org transfer.
 
 🔗 [Repository](https://github.com/Pieciuss/piecius_crime)
 </details>
