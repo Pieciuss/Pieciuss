@@ -132,6 +132,8 @@ RPM-based fuel consumption (10 tiers) with vehicle class & per-model multipliers
 Discord → pieciuss
 ```
 
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uBa28BSFFC)
+
 ---
 
 <div align="center">
